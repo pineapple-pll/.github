@@ -31,7 +31,7 @@ gradle multi-module
 
 
 [기본 MSA구조]
-[사진]
+![image](https://user-images.githubusercontent.com/42536633/135239572-5432cc32-ad2d-4e84-a44f-f0ead9d14715.png)
 
 
 [프로젝트 구성]
