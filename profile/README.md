@@ -36,7 +36,13 @@ gradle multi-module
 ---
 ### [프로젝트 구성] 
 
-웹         pine-mvc        8080  
-유저 api    pine-auth       8001  
+웹             pine-mvc          8080  
+api Gateway    pine-zuul        8000  
+Eureka         pine-euraka      8001  
+cache-server   pine-cache       8002  
+유저 api        pine-auth        8100  
+주식 api        pine-quant       8101  
+... 
+  
 
 
